@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://septos.github.io/csb-hdxn6l/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://septos.github.io/csb-hdxn6l/static/js/main.2c962dc1.chunk.js",
+    "main.js.map": "https://septos.github.io/csb-hdxn6l/static/js/main.2c962dc1.chunk.js.map",
+    "runtime-main.js": "https://septos.github.io/csb-hdxn6l/static/js/runtime-main.61a702fb.js",
+    "runtime-main.js.map": "https://septos.github.io/csb-hdxn6l/static/js/runtime-main.61a702fb.js.map",
+    "static/js/2.e2798808.chunk.js": "https://septos.github.io/csb-hdxn6l/static/js/2.e2798808.chunk.js",
+    "static/js/2.e2798808.chunk.js.map": "https://septos.github.io/csb-hdxn6l/static/js/2.e2798808.chunk.js.map",
+    "index.html": "https://septos.github.io/csb-hdxn6l/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://septos.github.io/csb-hdxn6l/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.e2798808.chunk.js.LICENSE.txt": "https://septos.github.io/csb-hdxn6l/static/js/2.e2798808.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a702fb.js",
+    "static/js/2.e2798808.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.2c962dc1.chunk.js"
+  ]
+}
